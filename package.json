@@ -1,0 +1,18 @@
+{
+  "name": "@types/react-native",
+  "version": "1.0.0",
+  "description": "Fork of DefinitelyTyped's RN type definitions",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rimeto/DefinitelyTyped/react-native"
+  },
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "typings": "index.d.ts",
+  "version": "0.34.39",
+  "author": "",
+  "license": "ISC"
+}
